@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Pantheon/Pantheon Ideas.md",
+                "file": "World Building/Pantheon/The Law of Five.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pantheon Ideas"
+              "title": "The Law of Five"
             }
           }
         ],
@@ -109,8 +109,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Pantheon/Pantheon Ideas.md",
-                "collapseAll": false,
+                "file": "World Building/Pantheon/The Law of Five.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pantheon Ideas"
+              "title": "Backlinks for The Law of Five"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Pantheon/Pantheon Ideas.md",
+                "file": "World Building/Pantheon/The Law of Five.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pantheon Ideas"
+              "title": "Outgoing links from The Law of Five"
             }
           },
           {
@@ -157,21 +157,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Pantheon/Pantheon Ideas.md",
+                "file": "World Building/Pantheon/The Law of Five.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pantheon Ideas"
+              "title": "Outline of The Law of Five"
+            }
+          },
+          {
+            "id": "88d38bd5938ad1d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4021c7ac0d3f8310",
+  "active": "7359a751095ffa52",
   "lastOpenFiles": [
-    "World Building/World Brainstorm.md",
     "World Building/Pantheon/Pantheon Ideas.md",
+    "World Building/Pantheon/The Law of Five.md",
+    "World Building/World Brainstorm.md",
     "World Building/Pantheon",
     "World Building"
   ]

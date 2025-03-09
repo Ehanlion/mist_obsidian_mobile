@@ -10,3 +10,7 @@ Create cool dialogue for Deion where the Dawnfather asks for his servitude in ex
 - Grants increased speed as the Dawnfather lends his agility
 - Grants increased radiant damage as Deion's attacks are empowered by the radiant energy of the Dawnfather 
 - Grants radius healing to allies in an area if Deion's strikes land true 
+
+This aspect is draining. After the first round in which it activates, the aspect drains the player. Deion makes a DC 20 Con save or suffers a level of exhaustion. 
+
+There is an exalted form Deion can call on that is more powerful but drains the life out of Deion as well. This form deals damage on each failed exhaustion save, less on successful saves. 

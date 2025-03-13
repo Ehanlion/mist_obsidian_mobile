@@ -6,7 +6,7 @@ _ _ _ _
 I love the idea of having a dungeon where the primary, dominant enemies are **overgrown Basilisk.** I think having statues of stone, frozen, scared adventurers could be a really funny lead in to the actual dungeon. 
 
 **Basilisk**
-![[image.jpg]]
+![[Basilisk_monster.jpg]]
 
 ___
 # Sections

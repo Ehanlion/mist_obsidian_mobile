@@ -1,0 +1,1 @@
+[[Valyra Malzan]] is a Levistus Tiefling Wild-magic Sorcerer played by Ashley. [[Valyra Malzan]] hails from [[The Green Order]] and was exiled for a contract taken with [[The Umbral Cabal]]. This contract granted [[Valyra Malzan]] saftey from an oncoming Red Greatwyrm but inbued her powers with chaos, hence the wild magic. 

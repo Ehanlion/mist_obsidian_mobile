@@ -1,0 +1,3 @@
+[[Silvan Gile]] is an evil Archmage working for [[Fedorov's Legion]] and [[Fedorov Barovick VII]]. He is a powerful artifact hunter who seeks to unearth the mysteries of [[Mist]]. He does *not* seek this for the good of [[Mist]] and only for his own gain and power. 
+
+**Past:** He was once the well-loved Mage named [[Ignel Valis]] who staged his own death to escape the ever-growing stature (grown from his tales of "The Greatest of the Great") of himself. Once "dead", he joined [[Fedorov Barovick VII]] and [[Garrick Blackthorn]], two old friends of his from adventuring days long passesd. 

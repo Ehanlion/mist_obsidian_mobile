@@ -1,0 +1,1 @@
+[[The Frigid Crucible]] is the northern reaches of mountains that are apart of [[The Chromatic Fangs]]. Known for their frigid temperatures, abnormaly tall peaks, and fearsome climate, they are seldom crossed outside of the three core passes. The creatures here are well adapted to the cold climate and are fearsome hunters, hence the dependancy on the core, three passes. 

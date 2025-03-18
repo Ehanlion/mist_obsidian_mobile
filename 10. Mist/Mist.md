@@ -1,0 +1,1 @@
+[[Mist]] is my beloved world that I created from scratch. It's is intended to be a high fantasy world with all the traditional dungeons and dragons quips, with the added extra layer of mystery that is so amazing to discover. 

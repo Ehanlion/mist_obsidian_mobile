@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/World Brainstorm.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Brainstorm"
+              "title": "README"
             }
           }
         ]
@@ -179,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ace17ab5327b3de",
+  "active": "f22a96b1299c8723",
   "lastOpenFiles": [
-    "World Building/Pantheon/Pantheon Ideas.md",
     "World Building/World Brainstorm.md",
+    "World Building/The Many/The Many.md",
+    "World Building/The Many",
+    "World Building/Pantheon/Pantheon Ideas.md",
     "World Building/Pantheon",
     "World Building"
   ]

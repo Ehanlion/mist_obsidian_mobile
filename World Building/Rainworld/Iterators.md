@@ -1,0 +1,2 @@
+## In Rainworld
+Iterators are powerful AI that inhabit massive superstructures that are effectively computers. They consume water for energy and cooling and generate mist which creates the rain in the world. 

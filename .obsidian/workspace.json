@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Mist/Fedorov Barovick VII.md",
+                "file": "99. Player Data/Vivian Lovejoy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fedorov Barovick VII"
+              "title": "Vivian Lovejoy"
             }
           }
         ],
@@ -196,6 +196,20 @@
   },
   "active": "a3d43dd599a0e2e8",
   "lastOpenFiles": [
+    "99. Player Data/Valyra Malzan.md",
+    "99. Player Data/Kiro Rickshaha.md",
+    "99. Player Data/Kelswin Lovejoy.md",
+    "99. Player Data/Deion Deus.md",
+    "99. Player Data/Player Profiles/Thor.md",
+    "99. Player Data/Player Profiles/Mekro.md",
+    "99. Player Data/Player Profiles/Morgan.md",
+    "99. Player Data/Player Profiles/Cdogspyro.md",
+    "10. Mist/Fedorov Barovick VII.md",
+    "99. Player Data/Player Profiles",
+    "10. Mist/The Followers of Alsolace.md",
+    "10. Mist/Tennyson Heralds.md",
+    "10. Mist/Gandoria.md",
+    "README.md",
     "10. Mist/Executing Devil Contracts.md",
     "10. Mist/Gandoras City.md",
     "10. Mist/Fedorov's Legion.md",
@@ -205,23 +219,10 @@
     "10. Mist/Mist.md",
     "10. Mist/Silvan Gile.md",
     "99. Player Data/Cdogspiro.md",
-    "10. Mist/Fedorov Barovick VII.md",
     "10. Mist/The Deadtide Reapers.md",
     "10. Mist/The Blue Coat Brigade.md",
     "99. Player Data/Mekro.md",
     "99. Player Data/Morgan.md",
-    "99. Player Data/Thor.md",
-    "99. Player Data/Kelswin Lovejoy.md",
-    "10. Mist/The Greenheart Wilderness.md",
-    "10. Mist/The Bogbeast Swamps.md",
-    "99. Player Data/Kiro Rickshaha.md",
-    "99. GM Screen/Loot Card Examples.md",
-    "10. Mist/The Whitecliff Plateau.md",
-    "10. Mist/The Seat of Stone.md",
-    "10. Mist/The Aquan Nations.md",
-    "10. Mist/The Harmonious Sea.md",
-    "10. Mist/The Distant Sea.md",
-    "99. Player Data/Vivian Lovejoy.md",
     "10. Mist/People",
     "0. Beastiary",
     "Media References",
@@ -231,7 +232,6 @@
     "10. Mist",
     "99. GM Screen/Loot Cards",
     "99. GM Screen",
-    "_Assets/Basilisk_monster.jpg",
-    "_Assets"
+    "_Assets/Basilisk_monster.jpg"
   ]
 }

@@ -1,0 +1,5 @@
+[[Tennyson Heralds]] is the leader of [[The Followers of Alsolace]] and the shining emissary of the Golden God, Alsolace. This god is fake, and [[Tennyson Heralds]] knows it. He is a master manipulator and a abundantly charismatic speaker, allowing him to enrapture crowds with his speech and calls to action. 
+
+He is a very powerful Human, Grave Domain Cleric who derives his powers from the Lord of the Hells (not Alsolace). This connection was forged with help from [[The Umbral Cabal]]. This imbues him with fiery powers. 
+
+[[Tennyson Heralds]] hopes to enslave [[The Whitecliff Plateau]] to his cause without force, and rather by using fear of [[The Aquan Nations]] and his speech abilities. He will seek to challenge [[The Seat of Stone]] if his following grows enough. When [[The Aquan Nations]] attack [[The Whitecliff Plateau]], he will lead refugees, protected by the Golden Light of Alsolace, to create an encampment outside [[Gandoras City]]. 

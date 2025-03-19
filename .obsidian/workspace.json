@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Player Data/Player Profiles/Cdogspyro.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cdogspyro"
+              "title": "README"
             }
           }
         ],
@@ -196,10 +196,10 @@
   },
   "active": "a3d43dd599a0e2e8",
   "lastOpenFiles": [
+    "99. Player Data/Player Profiles/Cdogspyro.md",
     "99. Player Data/Player Profiles/Mekro.md",
     "99. Player Data/Player Profiles/Morgan.md",
     "99. Player Data/Player Profiles/Thor.md",
-    "99. Player Data/Player Profiles/Cdogspyro.md",
     "99. Player Data/Vivian Lovejoy.md",
     "99. Player Data/Valyra Malzan.md",
     "99. Player Data/Kiro Rickshaha.md",

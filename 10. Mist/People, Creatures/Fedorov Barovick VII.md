@@ -1,0 +1,5 @@
+[[Fedorov's Legion]] is the cutthroat leader of [[Fedorov's Legion]]. He, alongside all the prior Barovicks, is a dark elf. He is brutal, exact, and unyielding. His methods of control are dictator-like and harsh. However, due to the success and profits he creates, the members of [[Fedorov's Legion]] generally regard him with awe and respect, but also fear. He is calculating and patient.
+
+When he ascended to the throne of [[Fedorov's Legion]], he fought his father in single combat and killed him. This is the ritual of passing control of the legion on. It then was renamed to "Fedorov's" legion instead of its prior name. [[Fedorov Barovick VII]] had many brothers, but he killed them all before challenging his father. He has sisters, but a woman may not inherit the throne and if they challenge, they will not be accepted for it. 
+
+[[Fedorov Barovick VII]] is directory advised by [[Silvan Gile]] and [[Fedorov Barovick VII]] knows the true nature of [[Silvan Gile]]'s past. The two masterminded the creation of [[Karak-Ulgurath]] and the prophecy passed to [[The Aquan Nations]] to conquer [[The Whitecliff Plateau]]. 

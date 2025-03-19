@@ -1,0 +1,1 @@
+[[Voramas]] is the Archdevil of [[The Umbral Cabal]]. He is lawful and exact. He serves to empower [[The Umbral Cabal]] in anyway and will accept any deal that increases their purview, power, or holdings. [[Voramas]] is friendly to [[Fedorov Barovick VII]] and [[Garrick Blackthorn]]. 

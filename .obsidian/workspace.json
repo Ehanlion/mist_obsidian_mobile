@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3e75d094937e2d43",
+        "id": "c224687bff117916",
         "type": "tabs",
         "children": [
           {
-            "id": "f22a96b1299c8723",
+            "id": "95c5cec0a4f6df08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99. Player Data/Mekro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mekro"
-            }
-          },
-          {
-            "id": "a3d43dd599a0e2e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +175,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3d43dd599a0e2e8",
+  "active": "0ace17ab5327b3de",
   "lastOpenFiles": [
+    "10. Mist/People, Creatures/Fedorov Barovick VII.md",
+    "10. Mist/People, Creatures/Garrick Blackthorn.md",
+    "10. Mist/People, Creatures/Ignel Valis.md",
+    "10. Mist/People, Creatures/Karak-Ulgurath.md",
+    "10. Mist/People, Creatures/Silvan Gile.md",
+    "10. Mist/People, Creatures/Tennyson Heralds.md",
+    "10. Mist/People, Creatures/Voramas.md",
+    "10. Mist/People, Creatures/Yugo Stolid.md",
+    "10. Mist/Executing Devil Contracts.md",
+    "README.md",
     "99. Player Data/Player Profiles/Cdogspyro.md",
     "99. Player Data/Player Profiles/Mekro.md",
     "99. Player Data/Player Profiles/Morgan.md",
@@ -205,25 +196,15 @@
     "99. Player Data/Kiro Rickshaha.md",
     "99. Player Data/Kelswin Lovejoy.md",
     "99. Player Data/Deion Deus.md",
-    "10. Mist/Fedorov Barovick VII.md",
     "99. Player Data/Player Profiles",
     "10. Mist/The Followers of Alsolace.md",
-    "10. Mist/Tennyson Heralds.md",
     "10. Mist/Gandoria.md",
-    "README.md",
-    "10. Mist/Executing Devil Contracts.md",
     "10. Mist/Gandoras City.md",
     "10. Mist/Fedorov's Legion.md",
-    "10. Mist/Ignel Valis.md",
     "10. Mist/Hope Town.md",
-    "10. Mist/Karak-Ulgurath.md",
     "10. Mist/Mist.md",
-    "10. Mist/Silvan Gile.md",
     "99. Player Data/Cdogspiro.md",
-    "10. Mist/The Deadtide Reapers.md",
-    "10. Mist/The Blue Coat Brigade.md",
-    "99. Player Data/Mekro.md",
-    "10. Mist/People",
+    "10. Mist/People, Creatures",
     "0. Beastiary",
     "Media References",
     "World Building/Experimental",

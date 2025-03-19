@@ -1,4 +1,6 @@
 [[Morgan]] is one of my players for my original Mist Campaign. 
+# Player Analysis
+# Blurting notes from phone
 
 With this player, I feel like there are a lot of different elements and issues that I as the game master have to manage. They have a very strong and repeated habit of going on their phone during a session which I have always found to be a little bit strange because one of the things that they've said that they like the most from the campaign is actually the mystery and the unfolding of story elements. The reason I find it so interesting is that they quite often tell me that they are lost or at least they tell me to repeat parts of a story or they ask me what we are doing doing during an actual session so it's always felt a little bit strange to me. This parody between oh I want to learn more about mystery in the actual story and I'm going to go on Twitter on my phone and be distracted is annoying. 
 

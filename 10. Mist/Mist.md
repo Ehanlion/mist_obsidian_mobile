@@ -1,1 +1,3 @@
 [[Mist]] is my beloved world that I created from scratch. It's is intended to be a high fantasy world with all the traditional dungeons and dragons quips, with the added extra layer of mystery that is so amazing to discover. 
+
+I run this for my four main players: [[Cdogspyro]], [[Mekro]]. [[Thor]], and [[Morgan]] who together comprise the last 5 years of my GM-ing journey. For this, I am most sincerely thankful. 

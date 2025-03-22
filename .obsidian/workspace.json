@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10. Mist/Mist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Mist"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "10. Mist/Mist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Mist"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "active": "95c5cec0a4f6df08",
   "lastOpenFiles": [
+    "README.md",
     "10. Mist/People, Creatures/Fedorov Barovick VII.md",
     "10. Mist/People, Creatures/Garrick Blackthorn.md",
     "10. Mist/People, Creatures/Ignel Valis.md",
@@ -190,7 +191,6 @@
     "10. Mist/People, Creatures/Voramas.md",
     "10. Mist/People, Creatures/Yugo Stolid.md",
     "10. Mist/Executing Devil Contracts.md",
-    "README.md",
     "99. Player Data/Player Profiles/Cdogspyro.md",
     "99. Player Data/Player Profiles/Mekro.md",
     "99. Player Data/Player Profiles/Morgan.md",

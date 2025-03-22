@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c224687bff117916",
+        "id": "7696ca8fc8cd5eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "95c5cec0a4f6df08",
+            "id": "e136a577859cc2dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Mist/Mist.md",
+                "file": "10. Mist/Written History/Pirate Faction Origins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mist"
+              "title": "Pirate Faction Origins"
             }
           }
         ]
@@ -179,8 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c5cec0a4f6df08",
+  "active": "e136a577859cc2dd",
   "lastOpenFiles": [
+    "10. Mist/Fedorov's Legion.md",
+    "10. Mist/Written History/Pirate Faction Origins.md",
+    "10. Mist/Written History",
+    "10. Mist/Executing Devil Contracts.md",
     "10. Mist/Hope Town.md",
     "10. Mist/Mist.md",
     "README.md",
@@ -192,7 +196,6 @@
     "10. Mist/People, Creatures/Tennyson Heralds.md",
     "10. Mist/People, Creatures/Voramas.md",
     "10. Mist/People, Creatures/Yugo Stolid.md",
-    "10. Mist/Executing Devil Contracts.md",
     "99. Player Data/Player Profiles/Cdogspyro.md",
     "99. Player Data/Player Profiles/Mekro.md",
     "99. Player Data/Player Profiles/Morgan.md",
@@ -206,8 +209,6 @@
     "10. Mist/The Followers of Alsolace.md",
     "10. Mist/Gandoria.md",
     "10. Mist/Gandoras City.md",
-    "10. Mist/Fedorov's Legion.md",
-    "99. Player Data/Cdogspiro.md",
     "10. Mist/People, Creatures",
     "0. Beastiary",
     "Media References",
@@ -216,7 +217,6 @@
     "99. Player Data",
     "10. Mist",
     "99. GM Screen/Loot Cards",
-    "99. GM Screen",
     "_Assets/Basilisk_monster.jpg"
   ]
 }

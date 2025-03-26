@@ -1,0 +1,3 @@
+[[The Runewilds]] are the civilization beyond [[Mist]]. The dominant leadership is [[The Scintillating Order]]. They hate [[The Many]] because [[The Many]] killed their Queen to free themselves from servitude. These are only a small civilization of the wider universe of my world, but that has yet to be created as it is out of the scope of the current projects. However, [[The Runewilds]] are relevant because they introduce [[The Scintillating Order]]. 
+
+[[The Runewilds]] are powerful lands of high, free-flowing magic. [[The Many]] were "architects" building wildly powerful super-structures for world-altering purposes. [[The Runewilds]] hosts the most powerful, most adept Archmagi in the wider lands. 

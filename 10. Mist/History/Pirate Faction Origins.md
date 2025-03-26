@@ -8,4 +8,6 @@ In [[Hope Town]] there exist three dominant pirate factions who compete for cont
 [[The Blue Coat Brigade]] are considered to be the "hopeful" and "good" pirate faction. They are known to help the lesser folks of the city, assist runaway folks, and fight slavery. However, the also control the least trade in the city and have the 3rd and lowest dominance factor in the city. On an alignment chart, they would be *lawful or chaotic good*.
 
 [[Fedorov's Legion]] is considered to be the evil faction. They are dark, mysterious, and brutal. They are known for their, cold-blooded killings, and traitorous acts.  This gives them the 1st and highest dominance factor in the city. On an alignment chart, they would be *lawful or chaotic evil*. 
+# History
+
 

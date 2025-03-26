@@ -1,0 +1,3 @@
+[[The Great Mind Blank]] was an event that divides the pre-history and recorded history eras of [[Mist]]. It was triggered by [[The Many]] in defense of [[Mist]] when attacked by [[The Scintillating Order]] in a open-warfare style combat. They triggered this as a last resort. 
+
+This event reset the memory of all creatures on [[Mist]] and coincided with [[Mist]] being sealed away, hidden from its enemies. This erased all memories and erased all written histories about the pre-history era of [[Mist]]. This was done using incredibly powerful, worked magical enchantments. 

@@ -1,7 +1,7 @@
 # This Repository
 This is a repository I maintain for mobile work on the Mist campaign. It is a brainstorming collection of my thoughts that serves as an ancillary to the primary Mist repository. It is also a streamlined, reduced version of my primary **Mist** repository and serves as a compressed variant of only the most essential, currently-in-use files and concepts. That way, in my new ideas, I can reference the current campaign-relevant material. 
 
-**GIT plugin broke the vault:** 2 times
+**GIT plugin broke the vault:** 2 times, maybe 3?
 **Last date for broken vault:** (3/18/25)
 **Resource Link for GIT:** [Obsidian-git](https://publish.obsidian.md/git-doc/Tips-and-Tricks#Gitignore)
 # Mist

@@ -12,7 +12,6 @@ The prison area is a powerful lair for [[#The High Priestess]]. She considers th
 
 **Raise the Tide**: the water in the room increases. The water level in the room raises by 10 feet. The resting level of the tide is 30 feet. The room is 90 feet high. Then summon a [hunter shark](https://roll20.net/compendium/dnd5e/Hunter%20Shark#content). 
 
-
 # The High Priestess
 She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means she has more powerful spellcasting and is regarded as a truth-sayer and revered one of the Stormlord, the chose deity of [[The Aquan Nations]]. 
 

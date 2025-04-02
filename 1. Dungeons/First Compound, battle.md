@@ -5,13 +5,26 @@ I think having this battle revolve around one very powerful caster could make it
 
 Let's do the battle this way. The main enemy will be the high priest. She was alluded to throughout various dialogues in the dungeon so this makes sense. Supporting her will be her four lieutenants. These four lieutenants will consist of prisoner guards. They will use a mix of Marshall and magic abilities to subdue prisoners. The high priests will powerful but generic spells for a cleric or a similar caster. She should have her own layer actions. She should treat the prison as a lay. There should be extra very weak enemies present throughout the fight that can be killed with one hit point.
 
+# Prison Lair Actions
+The prison area is a powerful lair for [[#The High Priestess]]. She considers this area her lair. If she is killed, the lair effects immediately cease. Below are a list of lair actions the occur in order, starting on initiative count 20. 
+
+**Magical Tide**: the water in the room swirls to the aid of the high priestess. Creatures the high priestess chooses within 30 feet must succeed on a DC 13 Strength saving throw. Failure: (2d6) bludgeoning damage and are displaced 15 feet. Success: half damage. 
+
+**Raise the Tide**: the water in the room increases. The water level in the room raises by 10 feet. The resting level of the tide is 30 feet. The room is 90 feet high. Then summon a [hunter shark](https://roll20.net/compendium/dnd5e/Hunter%20Shark#content). 
+
+
 # The High Priestess
 She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means she has more powerful spellcasting and is regarded as a truth-sayer and revered one of the Stormlord, the chose deity of [[The Aquan Nations]]. 
 
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-| 14  | 18  | 20  | 22  | 16  | 20  |
-| +2  | +4  | +5  | +6  | +3  | +5  |
+| Save Type        | **Value** | **Bonus** | **Save** |
+| ---------------- | --------- | --------- | -------- |
+| **Strength**     | 14        | +2        | +2       |
+| **Dexterity**    | 18        | +4        | +4       |
+| **Constitution** | 20        | +5        | +10      |
+| **Intelligence** | 22        | +6        | +11      |
+| **Wisdom**       | 16        | +3        | +3       |
+| **Charisma**     | 20        | +5        | +5       |
+
 **Hitpoints:** 230
 **AC**: 17
 
@@ -23,17 +36,17 @@ She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means sh
 **Legendary Resistances:** 2
 **Legendary Actions:**
 - (1), spellcasting: [[#The High Priestess]] casts a cantrip
-- (2), Tide Turner: [[#The High Priestess]] turns into water, dissolving and reappearing 30 feet away in an unoccupied location. Creatures within 10 feet of where she left must make a DC 13 Strength save or take (1d10) bludgeoning damage and be pushed back 10 feet. 
+- (2), Tide Turner: [[#The High Priestess]] turns into water, dissolving and reappearing 30 feet away in an unoccupied location. Creatures within 10 feet of where she left must make a DC 13 Strength save or take (1d10) bludgeoning damage and be pushed back 10 feet. Gain 20 temp hit points.
 
 **Held Items**
-- Some sort of powerful, magic amulet
-- A magic coral hunk from [[Karak-Ulgurath]], denoting her power and her ordained and powerful nature
-- Maybe some armament or wearable thing like armor?
+- Some sort of powerful, magic amulet that grants augmentation to her spellcasting. 
+- A magic coral hunk from [[Karak-Ulgurath]], denoting her power and her ordained and powerful nature. This is *cursed* but can reveal powerful information about the truth of [[Karak-Ulgurath]]. 
+- Tidal Armor or sorts, wearable by a caster. 
 
 **Spellcasting:** Level 13 Wizard
 **Spell-save DC:** 19, **Spell-attack Bonus**: +11
-Focus on Cold/Ice, Water-ish, and Control spells
-Cantrips (at will): [ray of frost](https://dnd5e.wikidot.com/spell:ray-of-frost), [shocking grasp](https://dnd5e.wikidot.com/spell:shocking-grasp) (3d8 for both)
+*Focus on Cold/Ice, Water-ish, and Control spells. She is a controlling high priestess and a prison guard, her spells should reflect this.* 
+Cantrips: [ray of frost](https://dnd5e.wikidot.com/spell:ray-of-frost), [shocking grasp](https://dnd5e.wikidot.com/spell:shocking-grasp) 
 1st level (4 slots): [silvery barbs](https://dnd5e.wikidot.com/spell:silvery-barbs), [magic missile](https://dnd5e.wikidot.com/spell:magic-missile), [ice knife](https://dnd5e.wikidot.com/spell:ice-knife), [shield](https://dnd5e.wikidot.com/spell:shield)
 2nd level (3 slots): [arcane lock](https://dnd5e.wikidot.com/spell:arcane-lock), [immovable object](https://dnd5e.wikidot.com/spell:immovable-object), [misty step](https://dnd5e.wikidot.com/spell:misty-step), [icingdeath's frost](https://dnd5e.wikidot.com/spell:icingdeath-s-frost)
 3rd level (3 slots): [counterspell](https://dnd5e.wikidot.com/spell:counterspell), [sleet storm](https://dnd5e.wikidot.com/spell:sleet-storm)
@@ -42,5 +55,6 @@ Cantrips (at will): [ray of frost](https://dnd5e.wikidot.com/spell:ray-of-frost
 6th level (1 slot): [mental prison](https://dnd5e.wikidot.com/spell:mental-prison)
 7th level (1 slot): [reverse gravity](https://dnd5e.wikidot.com/spell:reverse-gravity)
 
-*For conjure elemental*
-Water elemental stat block link: [water elemental](https://roll20.net/compendium/dnd5e/Water%20Elemental#content) 
+*For conjure elemental*: [water elemental](https://roll20.net/compendium/dnd5e/Water%20Elemental#content) 
+And below is a screenshot for fast reference  
+![[IMG_8879.jpeg]]

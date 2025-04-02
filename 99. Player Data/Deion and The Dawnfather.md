@@ -14,3 +14,6 @@ Create cool dialogue for Deion where the Dawnfather asks for his servitude in ex
 This aspect is draining. After the first round in which it activates, the aspect drains the player. Deion makes a DC 20 Con save or suffers a level of exhaustion. 
 
 There is an exalted form Deion can call on that is more powerful but drains the life out of Deion as well. This form deals damage on each failed exhaustion save, less on successful saves. 
+
+
+Raise me up Don father. Raise me up he of the sun. I have been lacking in my faith, and I have not sought out your knowledge or your beliefs. I am rigid in my distaste for the divinity, and I am lacking in my belief. If you help me now, I will spend every waking second understanding the opposite side of the coin that is my argument against divinity. I do not say that I shall believe in it. But I do promise that I will try to understand that which I so arrogantly Have this taste for.

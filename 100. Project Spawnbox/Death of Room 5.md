@@ -1,0 +1,3 @@
+[[Death of Room 5]] is a predetermined event in which, as part of [[Project Spawnbox]], I destroy a room ecosystem with an "eraser enemy." This even occurs while doors are closed between rooms and happens randomly when rolling for spawning encounters as part of spawning regions. This even is unlikely, but will probably transpire during a campaign held in this new world. 
+
+Every room that has a spawn area has a different spawn role. It is not guaranteed that this will happen across all room, in fact is unlikely. Not all rooms have spawning platforms either. This happens behind closed doors to augment the fear it can cause 

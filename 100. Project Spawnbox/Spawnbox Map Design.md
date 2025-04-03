@@ -1,0 +1,2 @@
+![[IMG_8881.jpeg]]
+Design done on 4/3/25. Shows basic idea of how rooms could be laid out and introduces notion of the "dungeon" rooms bordering the main core rooms. Also explains basic notion of a cycle for the gates. 

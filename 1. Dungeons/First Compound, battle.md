@@ -63,3 +63,25 @@ Cantrips: [ray of frost](https://dnd5e.wikidot.com/spell:ray-of-frost), [shocki
 *For conjure elemental*: [water elemental](https://roll20.net/compendium/dnd5e/Water%20Elemental#content) 
 And below is a screenshot for fast reference  
 ![[IMG_8879.jpeg]]
+
+# Aquan Prison Tenders
+[[#The High Priestess]] is attended to by 2 prison tenders. They are not adept with magic but possess basic, innate spellcasting. However they are expert controllers and excel at subduing foes and taking down enemies with their marital prowess.
+
+| **Save Type**    | **Value** | **Bonus** | **Save** |
+| ---------------- | --------- | --------- | -------- |
+| **Strength**     | 22        | +6        | +9       |
+| **Dexterity**    | 18        | +4        | +4       |
+| **Constitution** | 18        | +4        | +7       |
+| **Intelligence** | 8         | -1        | -1       |
+| **Wisdom**       | 12        | +1        | +1       |
+| **Charisma**     | 8         | -1        | -1       |
+**Hitpoints:** 60 and **AC**: 20 (natural)
+**CR:** 6, *Proficiency Bonus:* +3
+**Skills**: Athletics +9, Acrobatics +7, Intimidation +2, Insight +3. Perception +3
+**Resistance**: None
+**Immunity**: None
+**Passive Perception**: 13
+
+**Sentinel**: If this creature hits an enemy with an opportunity attack, that creature's speed is reduced to 0 for the rest of their turn. A creature with sentinel can still make their opportunity attack if the opponent disengages. 
+
+**Subduction**: the first attack on the Prison Tender's turn is more powerful. On their first attack, a target can be knocked prone or disarmed (choose). Save is DC 17 Strength. 

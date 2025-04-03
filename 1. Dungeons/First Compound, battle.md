@@ -6,7 +6,8 @@ I think having this battle revolve around one very powerful caster could make it
 Let's do the battle this way. The main enemy will be the high priest. She was alluded to throughout various dialogues in the dungeon so this makes sense. Supporting her will be her four lieutenants. These four lieutenants will consist of prisoner guards. They will use a mix of Marshall and magic abilities to subdue prisoners. The high priests will powerful but generic spells for a cleric or a similar caster. She should have her own layer actions. She should treat the prison as a lay. There should be extra very weak enemies present throughout the fight that can be killed with one hit point.
 
 # Prison Lair Gimmicks
-1. **Warming Zones**: There are 3 warming zones in the prison, used to help warm the prisoners against the cold of the water that enters. A Warming Zone can clear all stacks of Frostburn on a creature as long as they end their turn within 10 feet of it. Warming Zones look like large dark-red rocks that radiate warmth. They are clearly visible. 
+###### Warming Zones
+There are 3 warming zones in the prison, used to help warm the prisoners against the cold of the water that enters. A Warming Zone can clear all stacks of Frostburn on a creature as long as they end their turn within 10 feet of it. Warming Zones look like large dark-red rocks that radiate warmth. They are clearly visible. 
 
 # Prison Lair Actions
 The prison area is a powerful lair for [[#The High Priestess]]. She considers this area her lair. If she is killed, the lair effects immediately cease. Below are a list of lair actions the occur in order, starting on initiative count 20. 
@@ -34,7 +35,7 @@ She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means sh
 **Resistance**: Cold, Poison
 **Immunity**: None
 
-**Frostbrand**: When [[#The High Priestess]] deals Cold damage to a creature, that creature gains 1 stack of Frostburn. Frostburn can be cleared by entering a "warming zone."
+**Frostbrand**: When [[#The High Priestess]] deals Cold damage to a creature, that creature gains 1 stack of Frostburn. Frostburn can be cleared by entering one of the 3 [[#Warming Zones]] and ending your turn there. 
 
 **Legendary Resistances:** 2
 **Legendary Actions:**

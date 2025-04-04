@@ -122,5 +122,5 @@ _ _ _ _
 **Glaive of Subduction**: *Melee attack roll*: +9, reach 10 ft., *Hit*: 12 (1d10 + 5) slashing damage
 
 The [[3. Items/Glaive of Subduction|Glaive of Subduction]] grants the Prison Tender the ability to cast the following spells:
-- 1/day: 
-- 2/day:
+ - 1/day: [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
+- 2/day: [Sleep](https://dnd5e.wikidot.com/spell:sleep) (Casted at 2nd Level)

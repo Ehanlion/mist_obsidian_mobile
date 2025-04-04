@@ -5,16 +5,35 @@ I think having this battle revolve around one very powerful caster could make it
 
 Let's do the battle this way. The main enemy will be the high priest. She was alluded to throughout various dialogues in the dungeon so this makes sense. Supporting her will be her four lieutenants. These four lieutenants will consist of prisoner guards. They will use a mix of Marshall and magic abilities to subdue prisoners. The high priests will powerful but generic spells for a cleric or a similar caster. She should have her own layer actions. She should treat the prison as a lay. There should be extra very weak enemies present throughout the fight that can be killed with one hit point.
 
+_ _ _ _ 
+# List of Enemies
+- **Primary Foe:** 1x [[#The High Priestess]]
+- **Secondary Foes:** 3x [[#Aquan Prison Tenders]]
+- **Brutes:** 6x Sahuaguin Brutes (weaker, let these die in one hit but have more come in during the fight) These are easy to kill but numerous. *Describe them as being weaker, fresher recruits.*
+
+## Freeing Allies
+There are 60 miners in the prison area. All 60 will be in their cages when the fight starts. A cage can be destroyed (Metal Object, AC 17) or opened instead. 
+
+Only 6 miners naturally have a swimming speed. The others do not. If the group rallies them these 6 will fight alongside the group. Treat them as basic commoners with low hit points and unarmed attacks, unless the becomed armed. All are proficienct in martial weapons. 
+
+_ _ _ _
 # Prison Lair Gimmicks
 ###### Warming Zones
 There are 3 warming zones in the prison, used to help warm the prisoners against the cold of the water that enters. A Warming Zone can clear all stacks of Frostburn on a creature as long as they end their turn within 10 feet of it. Warming Zones look like large dark-red rocks that radiate warmth. They are clearly visible. 
-
+###### Healing Springs
+There are two healing springs in the room, on opposite ends of the chamber. They are fizzly, bubbly pits that have weak healing properties. If water level rises over them, then their magic extends to a bubble column that rises from the spring to the surface of the water. If you end your turn in one of these springs, you regain (2d6) hit points. 
+ _ _ _ _
 # Prison Lair Actions
 The prison area is a powerful lair for [[#The High Priestess]]. She considers this area her lair. If she is killed, the lair effects immediately cease. Below are a list of lair actions the occur in order, starting on initiative count 20. 
 
 **Magical Tide**: the water in the room swirls to the aid of the high priestess. Creatures the high priestess chooses within 30 feet must succeed on a DC 13 Strength saving throw. Failure: (2d6) bludgeoning damage and are displaced 15 feet. Success: half damage. 
 
-**Raise the Tide**: the water in the room increases. The water level in the room raises by 10 feet. The resting level of the tide is 30 feet. The room is 90 feet high. Then summon a [hunter shark](https://roll20.net/compendium/dnd5e/Hunter%20Shark#content). 
+**Raise the Tide**: the water in the room increases. The water level in the room raises by 10 feet. The resting level of the tide is 30 feet. The room is 90 feet high. Then summon a [hunter shark](https://roll20.net/compendium/dnd5e/Hunter%20Shark#content). The hunter shark is weak and it dies in one hit. 
+
+**Backup!** A new pack of Sahuaguin Brutes enter the room. The brutes die in 1 hit. Describe them as fresh recruits who look weaker but determined to answer [[#The High Priestess]]. They make only one attack per turn. These recruits flee if [[#The High Priestess]] is killed. They are here because more experience soldiers have been called back for aggressive raids happening soon. 
+
+*Included the statblock for the normal Sahuaguin brute right here.*
+![[Pasted image 20250403234654.png]]
 
 _ _ _ _
 # The High Priestess
@@ -45,9 +64,7 @@ She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means sh
 - (2), Tide Turner: [[#The High Priestess]] turns into water, dissolving and reappearing 30 feet away in an unoccupied location. Creatures within 10 feet of where she left must make a DC 13 Strength save or take (1d10) bludgeoning damage and be pushed back 10 feet. Gain 20 temp hit points.
 
 **Held Items**
-- Some sort of powerful, magic amulet that grants augmentation to her spellcasting. 
 - A magic coral hunk from [[Karak-Ulgurath]], denoting her power and her ordained and powerful nature. This is *cursed* but can reveal powerful information about the truth of [[Karak-Ulgurath]]. 
-- Tidal Armor or sorts, wearable by a caster. 
 
 **Spellcasting:** Level 13 Wizard
 **Spell-save DC:** 19, **Spell-attack Bonus**: +11
@@ -65,8 +82,9 @@ Cantrips: [ray of frost](https://dnd5e.wikidot.com/spell:ray-of-frost), [shocki
 And below is a screenshot for fast reference  
 ![[IMG_8879.jpeg]]
 
+_ _ _ _
 # Aquan Prison Tenders
-[[#The High Priestess]] is attended to by 2 or 3 prison tenders. They are not adept with magic but possess basic, innate spellcasting. However they are expert controllers and excel at subduing foes and taking down enemies with their marital prowess. They wield long glaives.
+[[#The High Priestess]] is attended to by 3 prison tenders. They are not adept with magic but possess basic, innate spellcasting. However they are expert controllers and excel at subduing foes and taking down enemies with their marital prowess. They wield long glaives.
 
 | **Save Type**    | **Value** | **Bonus** | **Save** |
 | ---------------- | --------- | --------- | -------- |
@@ -91,5 +109,5 @@ And below is a screenshot for fast reference
 **Held Items**
 - [[Glaive of Subduction]], a powerful glaive used by the prisoner tenders to subdue and control the prisoners. It has the power to cast controlling spells to ensnare prisoners. 
 
-**Multiattack**: The Prison Tender makes three Glaive of Subduction attacks..
+**Multiattack**: The Prison Tender makes two Glaive of Subduction attacks. The first attack benefits from the **Subduction** trait. 
 **Glaive of Subduction**: *Melee attack roll*: +9, reach 10 ft., *Hit*: 12 (1d10 + 5) slashing damage

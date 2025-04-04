@@ -1,0 +1,1 @@
+[[Faustus]] is the leader of [[The Many]]. He is a tall figure, depicted with a glowing, golden headband in all art/mosaics/images of [[The Many]]. 

@@ -1,0 +1,1 @@
+[[Valentino]] is a member of [[The Many]]. He is in love with [[Bernhard]]. He is a Chronomancy Wizard. He is always depicted with a golden watch hanging from his neck. 

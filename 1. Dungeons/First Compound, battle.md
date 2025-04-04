@@ -78,6 +78,13 @@ Cantrips: [ray of frost](https://dnd5e.wikidot.com/spell:ray-of-frost), [shocki
 6th level (1 slot): [mental prison](https://dnd5e.wikidot.com/spell:mental-prison)
 7th level (1 slot): [reverse gravity](https://dnd5e.wikidot.com/spell:reverse-gravity)
 
+**Spellcasting**: Level 3 Cleric
+**Spell-save DC:** 16, **Spell-attack Bonus**: +8
+*These are classic High Priestess spells, use them for healing her allies and buffs.*
+Cantrips: [Toll the Dead](https://dnd5e.wikidot.com/spell:toll-the-dead) 
+1st Level (4 slots): [Healing Word](https://dnd5e.wikidot.com/spell:healing-word)
+2nd Level (2 slots): [Prayer of Healing](https://dnd5e.wikidot.com/spell:prayer-of-healing)
+
 *For conjure elemental*: [water elemental](https://roll20.net/compendium/dnd5e/Water%20Elemental#content) 
 And below is a screenshot for fast reference  
 ![[IMG_8879.jpeg]]
@@ -94,6 +101,7 @@ _ _ _ _
 | **Intelligence** | 8         | -1        | -1       |
 | **Wisdom**       | 12        | +1        | +1       |
 | **Charisma**     | 8         | -1        | -1       |
+
 **Hitpoints:** 60 and **AC**: 20 (natural)
 **Speed:** 30 feet, Swim 50 feet
 **CR:** 6, *Proficiency Bonus:* +3

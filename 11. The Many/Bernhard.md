@@ -1,0 +1,1 @@
+[[Bernhard]] is one of [[The Many]]. She is in love with [[Valentino]]. She was one of the initial creators of The First Compound. She is a Circle of the Moon Druid. 

@@ -33,7 +33,7 @@ The prison area is a powerful lair for [[#The High Priestess]]. She considers th
 **Backup!** A new pack of Sahuaguin Brutes enter the room. The brutes die in 1 hit. Describe them as fresh recruits who look weaker but determined to answer [[#The High Priestess]]. They make only one attack per turn. These recruits flee if [[#The High Priestess]] is killed. They are here because more experience soldiers have been called back for aggressive raids happening soon. 
 
 *Included the statblock for the normal Sahuaguin brute right here.*
-![[Pasted image 20250403234654.png]]
+![[_Assets/Pasted image 20250403234654.png]]
 
 _ _ _ _
 # The High Priestess
@@ -120,3 +120,7 @@ _ _ _ _
 
 **Multiattack**: The Prison Tender makes two Glaive of Subduction attacks. The first attack benefits from the **Subduction** trait. 
 **Glaive of Subduction**: *Melee attack roll*: +9, reach 10 ft., *Hit*: 12 (1d10 + 5) slashing damage
+
+The [[3. Items/Glaive of Subduction|Glaive of Subduction]] grants the Prison Tender the ability to cast the following spells:
+- 1/day: 
+- 2/day:

@@ -12,7 +12,7 @@ Very Rare, *Requires Attunement by two creatures*
 - Grants a +1 to your Intelligence score, raising the maximum of this score by 1. 
 - Grants resistance to radiant and necrotic damage.
 - Grants advantage on saving throws against being charmed.
-- *Wedded Casting.* (Proficiency/Long Rest): As long as you can see them, and when you cast a spell, your spell can originate from the wearer of the *Silver ring*. Then the wearer of the *Silver ring* gains advantage on their next attack role, ability check, or saving throw as they hear an invariable ticking of a clock surround them. 
+- *Wedded Casting.* (1/Long Rest): As long as you can see them, and when you cast a spell, you can choose to have yohr spell originate from the wearer of the *Silver ring*. The wearer of the *Silver Ring* can immediately use either an action or a bonus action but not both. 
 
 **Paired Properties.** 
 - These properties are only gained when two creatures, considered friendly to one another, attune to the rings. 

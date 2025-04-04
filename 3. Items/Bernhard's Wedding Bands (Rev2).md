@@ -21,3 +21,5 @@ Very Rare, *Requires Attunement by two creatures*
 - These properties are only gained when two creatures, considered friendly to one another, attune to the rings. 
 - *Arcane Communion.* While both rings are attuned and worn, the wearers share a telepathic bond that allows them to communicate instantly, regardless of distance or most obstacles.
 - *For you, the world:* (1/day) When one ring wearer falls unconcious, the other can use a reaction to transfer any amount of their current hit points to them to bring them back to life. Once used by one ring wearer, this ability cannot be used until the next dawn.
+
+If a wearer of one ring, while both are attuned to, dies fully, the silver ring loses its "temporal precision" and "clockwork precision" abilities while the gold ring loses its "moonshadow blessing" ability. This loss is permanent. They lose their paired properties as well. Their rarity reduces from very rare, to rare. 

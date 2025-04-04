@@ -30,6 +30,7 @@ She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means sh
 | **Charisma**     | 20        | +5        | +5       |
 
 **Hitpoints:** 230 and **AC**: 18
+**Speed:** 30 feet, Swim 40 feet.
 **CR:** 13, *Proficiency Bonus:* +5
 **Skills**: History +11, Arcana +11, Insight +8, Deception +10, 
 **Resistance**: Cold, Poison
@@ -65,19 +66,20 @@ And below is a screenshot for fast reference
 ![[IMG_8879.jpeg]]
 
 # Aquan Prison Tenders
-[[#The High Priestess]] is attended to by 2 prison tenders. They are not adept with magic but possess basic, innate spellcasting. However they are expert controllers and excel at subduing foes and taking down enemies with their marital prowess.
+[[#The High Priestess]] is attended to by 2 or 3 prison tenders. They are not adept with magic but possess basic, innate spellcasting. However they are expert controllers and excel at subduing foes and taking down enemies with their marital prowess. They wield long glaives.
 
 | **Save Type**    | **Value** | **Bonus** | **Save** |
 | ---------------- | --------- | --------- | -------- |
-| **Strength**     | 22        | +6        | +9       |
-| **Dexterity**    | 18        | +4        | +4       |
-| **Constitution** | 18        | +4        | +7       |
+| **Strength**     | 20        | +5        | +8       |
+| **Dexterity**    | 16        | +3        | +3       |
+| **Constitution** | 16        | +3        | +6       |
 | **Intelligence** | 8         | -1        | -1       |
 | **Wisdom**       | 12        | +1        | +1       |
 | **Charisma**     | 8         | -1        | -1       |
 **Hitpoints:** 60 and **AC**: 20 (natural)
+**Speed:** 30 feet, Swim 50 feet
 **CR:** 6, *Proficiency Bonus:* +3
-**Skills**: Athletics +9, Acrobatics +7, Intimidation +2, Insight +3. Perception +3
+**Skills**: Athletics +8, Acrobatics +6, Intimidation +2, Insight +3. Perception +3
 **Resistance**: None
 **Immunity**: None
 **Passive Perception**: 13
@@ -85,3 +87,9 @@ And below is a screenshot for fast reference
 **Sentinel**: If this creature hits an enemy with an opportunity attack, that creature's speed is reduced to 0 for the rest of their turn. A creature with sentinel can still make their opportunity attack if the opponent disengages. 
 
 **Subduction**: the first attack on the Prison Tender's turn is more powerful. On their first attack, a target can be knocked prone or disarmed (choose). Save is DC 17 Strength. 
+
+**Held Items**
+- [[Glaive of Subduction]], a powerful glaive used by the prisoner tenders to subdue and control the prisoners. It has the power to cast controlling spells to ensnare prisoners. 
+
+**Multiattack**: The Prison Tender makes three Glaive of Subduction attacks..
+**Glaive of Subduction**: *Melee attack roll*: +9, reach 10 ft., *Hit*: 12 (1d10 + 5) slashing damage

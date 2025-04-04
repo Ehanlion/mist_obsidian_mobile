@@ -1,3 +1,5 @@
+*I am going to give this armor as Split Armor, granting a base AC of 17, disadvantage on stealh, and requiring a 15 Strength to wear.*
+
 Modelled off of this: [living armor](https://dnd5e.wikidot.com/wondrous-items:living-armor) 
 
 **Description:** this armor looks rough and ragged. Its edges are crab-like and sharp. It's carapace is mottled green, blue, and black. On the inside of the armor are what looks like hundreds of wriggling hairs that glisten and move. 

@@ -37,11 +37,11 @@ The prison area is a powerful lair for [[#The High Priestess]]. She considers th
 
 _ _ _ _
 # The High Priestess
-She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means she has more powerful spellcasting and is regarded as a truth-sayer and revered one of the Stormlord, the chose deity of [[The Aquan Nations]]. 
+She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means she has more powerful spellcasting and is regarded as a truth-sayer and revered one of the Stormlord, the chose deity of [[The Aquan Nations]]. She is a natural leader, fearsome warrior, and masterful spellcaster. There are more, but they are rare. Priestesses are the natural leaders in the Sahuaguin Society, thus her role as leader makes logical sense. 
 
 | Save Type        | **Value** | **Bonus** | **Save** |
 | ---------------- | --------- | --------- | -------- |
-| **Strength**     | 14        | +2        | +2       |
+| **Strength**     | 16        | +3        | +3       |
 | **Dexterity**    | 18        | +4        | +4       |
 | **Constitution** | 20        | +5        | +10      |
 | **Intelligence** | 22        | +6        | +11      |
@@ -51,7 +51,7 @@ She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means sh
 **Hitpoints:** 230 and **AC**: 18
 **Speed:** 30 feet, Swim 40 feet.
 **CR:** 13, *Proficiency Bonus:* +5
-**Skills**: History +11, Arcana +11, Insight +8, Deception +10, 
+**Skills**: History +11, Arcana +11, Insight +8, Deception +10, Athletics +8
 **Resistance**: Cold, Poison
 **Immunity**: None
 
@@ -65,6 +65,7 @@ She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means sh
 
 **Held Items**
 - A magic coral hunk from [[Karak-Ulgurath]], denoting her power and her ordained and powerful nature. This is *cursed* but can reveal powerful information about the truth of [[Karak-Ulgurath]]. 
+- She wears [[Symbiotic Barnacle Armor]] on her. 
 
 **Spellcasting:** Level 13 Wizard
 **Spell-save DC:** 19, **Spell-attack Bonus**: +11

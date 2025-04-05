@@ -10,7 +10,6 @@ _ _ _ _
 - **Primary Foe:** 1x [[#The High Priestess]]
 - **Secondary Foes:** 3x [[#Aquan Prison Tenders]]
 - **Brutes:** 6x Sahuaguin Brutes (weaker, let these die in one hit but have more come in during the fight) These are easy to kill but numerous. *Describe them as being weaker, fresher recruits.*
-
 ## Freeing Allies
 There are 60 miners in the prison area. All 60 will be in their cages when the fight starts. A cage can be destroyed (Metal Object, AC 17) or opened instead. 
 

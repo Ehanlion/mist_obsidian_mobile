@@ -1,4 +1,3 @@
-
 **Description:** This item is used by prisoner tenders of [[The Aquan Nations]] to subdue and terrorize their prisoners. It is a long glaive, engraved with dark black ink and designs of the sea. Its blade is a strange blue crystal that hums with magic potential. 
 
 *This item requires attunement.*

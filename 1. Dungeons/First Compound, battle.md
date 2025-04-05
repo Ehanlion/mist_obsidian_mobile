@@ -18,7 +18,7 @@ Only 6 miners naturally have a swimming speed. The others do not. If the group r
 _ _ _ _
 # Prison Lair Gimmicks
 ###### Warming Zones
-There are 3 warming zones in the prison, used to help warm the prisoners against the cold of the water that enters. A Warming Zone can clear all stacks of Frostburn on a creature as long as they end their turn within 10 feet of it. Warming Zones look like large dark-red rocks that radiate warmth. They are clearly visible. 
+There are 3 warming zones in the prison, used to help warm the prisoners against the cold of the water that enters. A Warming Zone can clear all stacks of Frostburn on a creature as long as they end their turn within the range of it. Warming Zones look like large dark-red rocks that radiate warmth. They are clearly visible. 
 ###### Healing Springs
 There are two healing springs in the room, on opposite ends of the chamber. They are fizzly, bubbly pits that have weak healing properties. If water level rises over them, then their magic extends to a bubble column that rises from the spring to the surface of the water. If you end your turn in one of these springs, you regain (2d6) hit points. 
  _ _ _ _

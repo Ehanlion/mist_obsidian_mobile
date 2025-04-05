@@ -1,0 +1,1 @@
+[[Marwood]] is married to [[11. The Many/Faustus|Faustus]]. She is the second in command of [[The Many]]. She is also a motherly figure to the group. She is a Divine Soul Sorcer. 

@@ -1,0 +1,2 @@
+[[Whitecliff]] is the fiefdom of towns that ring [[The Whitecliff Plateau]]. They are a loose subsidiary of [[Gandoria]] in the sense that they trade with them closely and, in times of emergency, they can call upon [[The Seat of Stone]] to provide support. However, they are a seperate entity from [[Gandoria]]
+and inhabitants of [[Whitecliff]] are *not considered to be citizens of [[Gandoria]].*

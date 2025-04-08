@@ -1,0 +1,1 @@
+[[The Discordant Plains]] are the vast, empty plains that are said to cause psychic breaks, mental terrors, and permanent confusion. They are avoided at all costs when travelling to and from [[The Chromatic Fangs]] from the Northern parts of [[Mist]]. 

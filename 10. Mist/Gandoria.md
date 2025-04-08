@@ -1,5 +1,7 @@
-[[Gandoria]] is the official name of the nation of [[The Whitecliff Plateau]]. Its center is [[Gandoras City]]. Its ruling throne is [[The Seat of Stone]]. 
+[[Gandoria]] is the nation whose center is [[Gandoras City]]. Its ruling throne is [[The Seat of Stone]]. 
 
 People of [[Gandoria]] are called Gandorians.
 
-[[Gandoria]] has about 150,000 people in its nation. About 50,000 live along the actual [[The Whitecliff Plateau]] while close to 100,000 live in and around [[Gandoras City]]. Although when I say [[Gandoras City]], I more mean the surrounding 10-15 miles or so. People inhabit up and down King Gillian's Channel, on either side, and all around the white walls of [[Gandoras City]] itself. 
+[[Gandoria]] has about 200,000 people in its nation. They tightly inhabit the area bordered to the West by King Gillian's Channel, to the North by [[The Distant Sea]], to the south by Lake Middle Mist and [[The Discordant Plains]], and to the East by [[The Greenheart Wilderness]]. 
+
+This area has dense suburbs and towns, large clusterings of farming encampments (that use magic to farm), and abundant infrastructure to promote quick navigation and transport. It is more "modern" than the neighboring Fiefdom of [[Whitecliff]]. 

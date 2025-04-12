@@ -1,0 +1,2 @@
+The world of [[Batlandia]] is the setting for World War Fantasy, the campaign. This campaign is a far stretch from traditional D&D 5e High Fantasy. Instead, this world is set in a WWII-ish setting where two conquering nations face off in a world-spanning great war. The fantasy technology of the world mirrors that of the real-life WWII era technology including: WWII-era fighters/bombers, naval armadas, Radio Transmissions, and firearms. 
+

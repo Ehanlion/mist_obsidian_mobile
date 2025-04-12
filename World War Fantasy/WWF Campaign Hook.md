@@ -1,0 +1,5 @@
+The hook for this campaign is as follows.
+
+**Welcome to the 500th Soldiers!** The party has been enlisted into the army of [[Hoomana]], fighting alongside the human/construct forces. Your allies are the nation of [[Dwarforgum]] and you are defending the oppressive conquest from the combined forces of [[Elvanior]] and [[Orcisia]]. 
+
+You are your party are the crew of a *Cerberus-77* heavy bomber. You are apart of the 500th Air Wing. Together you execute bomding missions in the lands of [[Elvanior]] and [[Orcisia]]. You will face powerful defenses from both *Arcano-flak* and the mighty Air Wings of your enemy. Complete these missions to gain *Prestige,* retrofit your bomber with upgrades based on your prestige with your Air Wing (the higher prestige the better upgrades you can choose from), conquer enemy planes in intense air-to-air combat, dodge the barrage of Arcano-flak as you invade the enemy territories. If you are shot down, parachute to safety before attempting to escape back to the lands of [[Hoomana]]. 

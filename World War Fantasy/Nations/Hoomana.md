@@ -1,0 +1,1 @@
+[[Hoomana]] is the nation of Humans and Contructs in the world of [[Batlandia]].

@@ -6,7 +6,7 @@ While wearing this armor you gain an additional +1 bonus to your AC. You have re
 
 **Symbiotic nature**: the armor cannot be removed from you once you attune to it. You cannot voluntarily end your attunement to it. You cannot wear another set of armor while attuned to this armor. If you are targeted by a spell that ends a curse you are immediately subject to the effects of [[#Removing the Armor]]. Then the armor detaches from you. 
 
-This armor requires fresh blood to feed. Immediately after finishing any long rest you must feed the armor half (rounded up) of your hit die. If you do not or cannot do this, you immediately suffer a level of exhaustion. For every sequential day of not feeding the armor, the exhaustion penalty increase by one., resetting once you feed it. For every level of exhaustion gained this way, your Strength is reduced by 2. 
+This armor requires fresh blood to feed. Immediately after finishing any long rest you must feed the armor half (rounded up) of your hit die. If you do not or cannot do this, you immediately suffer a level of exhaustion. For every sequential day of not feeding the armor, the exhaustion penalty increase by one, resetting once you feed it. For every level of exhaustion gained this way, your Strength is reduced by 2. 
 
 _ _ _ _
 ###### Removing the Armor

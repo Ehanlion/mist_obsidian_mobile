@@ -2,7 +2,6 @@
 - Less enemies in combat is good. 
 - Create more potent boss enemy, increase damage and HP to maximize deadliness. Limit minions to 3 max. 
 - Make map dynamic, but don't limit terrarin. Water is cool, but have normal terrain as well. Actually use both terrarin types. Cater to all movement types.
-
 # The Good
 - Map design was cool in theory, the notion of a multi-level arena where the water rises is nifty, and I think lair actions were promising
 - Physical map implementation was good with plastic, clear screens

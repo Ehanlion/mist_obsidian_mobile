@@ -7,6 +7,8 @@ These effects should be generated randomly from random tables, but the players s
 # Wild Magic Dragon
 This combat is centered around a [[#Wild Magic Dragon]], which is half-mechanical creation and half-natural beast. The mechanical side originates from [[The Many]], who created this as a guardian.
 
+**Spellcasting**:
+The dragon could use randomly chosen spells. Create a deck of spells including an equal amount of every level, chosen from the wizard spell list. Everytime the dragon casts as an action, or as a Legendary Action, draw a card from the deck. This is the spell that it casts. Purely random and pure chaos. 
 # Magic Effect Tables
 
 ##### Minor Effect Table

@@ -2,4 +2,4 @@
 
 When he ascended to the throne of [[Fedorov's Legion]], he fought his father in single combat and killed him. This is the ritual of passing control of the legion on. It then was renamed to "Fedorov's" legion instead of its prior name. [[Fedorov Barovick VII]] had many brothers, but he killed them all before challenging his father. He has sisters, but a woman may not inherit the throne and if they challenge, they will not be accepted for it. 
 
-[[Fedorov Barovick VII]] is directory advised by [[Silvan Gile]] and [[Fedorov Barovick VII]] knows the true nature of [[Silvan Gile]]'s past. The two masterminded the creation of [[Karak-Ulgurath]] and the prophecy passed to [[The Aquan Nations]] to conquer [[The Whitecliff Plateau]]. 
+[[Fedorov Barovick VII]] is directory advised by [[Silvan Gile]] and [[Fedorov Barovick VII]] knows the true nature of [[Silvan Gile]]'s past. The two masterminded the creation of [[Karak-Ulgurath]] and the prophecy passed to [[Aquan Nations]] to conquer [[Whitecliff Plateau]]. 

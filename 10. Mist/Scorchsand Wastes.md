@@ -1,0 +1,1 @@
+The [[Scorchsand Wastes]] are the vast, hostile deserts that make up the center of the South of [[Mist]]. They are to the West of the [[Scorvorrian Peaks]]. They are brutal, eternall hot, and it never rains there. They are wrought with evil magic and are deeply hostile to crossings. 

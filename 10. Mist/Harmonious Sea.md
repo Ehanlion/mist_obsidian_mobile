@@ -1,0 +1,1 @@
+[[Harmonious Sea]] is the western sea in [[Mist]]  it's placid waters, calm currents, and rare storms make it an ideal sea for sailing and trade. In the north it borders [[Distant Sea]]. [[Harmonious Sea]] fosters intelligent sea life, namely [[Aquan Nations]]. The capitals of the Sahuaguin and Triton nations both reside in these waters. 

@@ -5,7 +5,7 @@
 - Run a couple hallway fights on their path to escape
 
 # What the Compound Knows
-No member of [[The Aquan Nations]] escaped the prison chamber, but soon after they escape someone will see what has happened, likely **Aquavian** realizes what happened. He is smart and powerful, and will attempt to stop the party. 
+No member of [[Aquan Nations]] escaped the prison chamber, but soon after they escape someone will see what has happened, likely **Aquavian** realizes what happened. He is smart and powerful, and will attempt to stop the party. 
 
 The group has a random amount of time before the ruse is up. Roll a perception check for the Sahaguin every 15 minutes of IRL time and if it is good, they know. 
 
@@ -21,7 +21,7 @@ For each time the group approachs a patrol location, get ready and roll a D20. O
 | Roll Range | Difficulty | Obstacle                                                                                                  |
 | ---------- | ---------- | --------------------------------------------------------------------------------------------------------- |
 | 1-5        | Brutal     | Right hand Triton of Avalon, named **Aquavian**, knows what was done and will exact revenge on the party. |
-| 6-10       | Hard       | Multiple strong soldier of [[The Aquan Nations]] try to exact revenge for their fallen leader.            |
+| 6-10       | Hard       | Multiple strong soldier of [[Aquan Nations]] try to exact revenge for their fallen leader.            |
 | 11-15      | Moderate   | A strong force of [[Fedorov's Legion]] members are at a post, prepared to fight.                          |
 | 16-20      | Interns    | Small group of Brutes and maybe a baron stand guard at an exit.                                           |
 # Labyrinth

@@ -1,4 +1,4 @@
-# [[The Aquan Nations]] - Names
+# [[Aquan Nations]] - Names
 ## Triton Folk
 |Name 1|Name 2|Name 3|
 |---|---|---|

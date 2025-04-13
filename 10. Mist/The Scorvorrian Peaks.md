@@ -1,1 +1,0 @@
-[[The Scorvorrian Peaks]] are the southern mountains of [[The Chromatic Fangs]]. They are the home of creatures, that in normal D&D, would hail from *the elemental plane of fire.* These mountains are scary to cross, not so much because of the terrain, and more because of the creatures of fire. Of course, the terrain is scary; the entire range is volcanic and volatile. 

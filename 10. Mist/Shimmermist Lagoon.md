@@ -1,0 +1,1 @@
+[[Shimmermist Lagoon]] is the South-Western sea cave on [[Whitecliff Plateau]].

@@ -1,0 +1,3 @@
+[[Followers of Alsolace]] are a devout group of religious cultists, loyals to [[Tennyson Heralds]] and Alsolace. They are composed of clerics, paladins, and warlocks who spread the golden word of Alsolace across [[Whitecliff Plateau]]. It is worth noting that Alsolace is fake but much of their devotion is not. While most of the closest to [[Tennyson Heralds]] and the Exalted of [[Followers of Alsolace]] know Alsolace's true nature, the bulk of the following does not. 
+
+They believe that gold and prayer, contributed to a golden altar to Alsolace is enough to ward off the dark spirits. It is no coincidence that [[Aquan Nations]] have left Gullhook alone then, although in reality they only avoid Gullhook because of [[Tennyson Heralds]] and orders from [[Fedorov's Legion]].

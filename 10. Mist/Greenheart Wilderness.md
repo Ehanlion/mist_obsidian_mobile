@@ -1,0 +1,1 @@
+[[Greenheart Wilderness]] are the massive forests in the north-eastern region of [[Mist]]. The are diverse and unique, spanning three distinct ecosystems that coexist tensely. 

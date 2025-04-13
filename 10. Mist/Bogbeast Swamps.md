@@ -1,0 +1,1 @@
+[[Bogbeast Swamps]] are a strange and wild place, bordering the reaches of [[Greenheart Wilderness]] and [[Frigid Crucible]]. They are large swamps, riddled with rocky sinkholes, creatures of mud, and abberations that leak out from [[Greenheart Wilderness]]. The creatures that live here are hardened by the necessity to survive and the thrill of hunting. 

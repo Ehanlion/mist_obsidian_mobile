@@ -1,0 +1,1 @@
+[[Echoing Grotto]] is the northern-most Sea Cave on [[Whitecliff Plateau]]. 

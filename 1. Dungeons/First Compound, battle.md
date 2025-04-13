@@ -1,5 +1,5 @@
 **The High Priestess**
-*I alluded to powerful, main priestess enemy that creatures of [[The Aquan Nations]] defer to.*
+*I alluded to powerful, main priestess enemy that creatures of [[Aquan Nations]] defer to.*
 
 I think having this battle revolve around one very powerful caster could make it more interesting. Originally, I had wanted to run this as sort of a hard battle with lots of enemies. Instead, I think it would be more fun to have one primary enemy and like four or five lieutenants who support her. These lieutenants can act as the prisoner guard while the high priestess acts the primary enemy and controller of the compound.
 
@@ -36,7 +36,7 @@ The prison area is a powerful lair for [[#The High Priestess]]. She considers th
 
 _ _ _ _
 # The High Priestess
-She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means she has more powerful spellcasting and is regarded as a truth-sayer and revered one of the Stormlord, the chose deity of [[The Aquan Nations]]. She is a natural leader, fearsome warrior, and masterful spellcaster. There are more, but they are rare. Priestesses are the natural leaders in the Sahuaguin Society, thus her role as leader makes logical sense. 
+She is a natural leader and is **ordained by [[Karak-Ulgurath]]**. This means she has more powerful spellcasting and is regarded as a truth-sayer and revered one of the Stormlord, the chose deity of [[Aquan Nations]]. She is a natural leader, fearsome warrior, and masterful spellcaster. There are more, but they are rare. Priestesses are the natural leaders in the Sahuaguin Society, thus her role as leader makes logical sense. 
 
 | Save Type        | **Value** | **Bonus** | **Save** |
 | ---------------- | --------- | --------- | -------- |

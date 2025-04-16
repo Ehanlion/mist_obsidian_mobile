@@ -1,0 +1,1 @@
+The [[Bloodstone Pass]] is the middle pass that traverses the [[Chromatic Fangs]]. It is brutal and harsh. It is ruled by [[Garrick Blackthorn]], leader of the cruel guardians called the [[Iron-Fist Marauders]]

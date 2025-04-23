@@ -84,22 +84,44 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 from collections import Counter
 
+def plot_items_over_week(csv_lines, vault):
+    dates = [datetime.strptime(l.split(",")[0], "%m-%d-%y").date() for l in csv_lines]
+    counts = Counter(dates)
+    xs = sorted(counts)
+    ys = [counts[d] for d in xs]
+
+    plt.figure()
+    plt.bar(xs, ys)
+    plt.xlabel("Date")
+    plt.ylabel("Number of Items Collected")
+    plt.title("Magic Items Collected Over One Week")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+
+    # save into the _Assets subfolder
+    out = vault + "/_Assets/" + "magic_items.png"
+    plt.savefig(out)
+    print(f"Chart saved to: {out}")
+    
 def main():
     vault = @vault_path
     rel   = "Python Code Snippets/player_item_data.md"
-    fn    = os.path.join(vault, rel)
+    fn    = vault + "/" + rel
 
     with open(fn, encoding="utf-8") as f:
         tbl = [line.rstrip() for line in f if line.lstrip().startswith("|")]
 
     data_lines = tbl[2:]
     csv_lines = []
-
     for row in data_lines:
         fields   = [cell.strip() for cell in row.strip().strip("|").split("|")]
         csv_line = ",".join(fields)
         csv_lines.append(csv_line)
         print(csv_line)
 
+    plot_items_over_week(csv_lines, vault)
+
 if __name__ == "__main__":
     main()
+
+@show("_Assets/magic_items.png")

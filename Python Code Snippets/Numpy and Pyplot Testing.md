@@ -1,3 +1,4 @@
+## Code Emitter Coding Blocks
 ### Test Code Basics
 - Try to get `numpy and matplotlib.pyplot` working
 - Make sure to use `import micropip` to help install by running `await micropip.install('dependancy')` 
@@ -48,3 +49,57 @@ text_promise = app.vault.read(tfile)
 content = await text_promise
 print(content, '\n')
 ```
+
+## Execute Code Plugin Blocks
+### testing stuff
+
+```python
+
+import numpy as np
+
+a = np.random.rand(20, 1)
+
+print(a)
+```
+### Testing Basic Parts
+```python
+import numpy as  np
+import matplotlib.pyplot as plt
+
+def main():
+	print("hello world")
+
+if __name__ == "__main__":
+	main()
+```
+```output
+hello world
+```
+
+### Reading another file
+```python
+import os
+import csv
+import matplotlib.pyplot as plt
+from datetime import datetime
+from collections import Counter
+
+def main():
+    vault = @vault_path
+    rel   = "Python Code Snippets/player_item_data.md"
+    fn    = os.path.join(vault, rel)
+
+    with open(fn, encoding="utf-8") as f:
+        tbl = [line.rstrip() for line in f if line.lstrip().startswith("|")]
+
+    data_lines = tbl[2:]
+    csv_lines = []
+
+    for row in data_lines:
+        fields   = [cell.strip() for cell in row.strip().strip("|").split("|")]
+        csv_line = ",".join(fields)
+        csv_lines.append(csv_line)
+        print(csv_line)
+
+if __name__ == "__main__":
+    main()

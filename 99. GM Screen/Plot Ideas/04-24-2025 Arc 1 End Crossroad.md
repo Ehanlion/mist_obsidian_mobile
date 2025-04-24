@@ -1,4 +1,4 @@
-The [[04-24-2025 Miner Rescue Campaign Crossroads]] marks the end of the players realizing what the hell is happening. They just rescued 60 miners from an ancient compound by completing [[First Compound, Battle]] and [[First Compound, Prison Break]]. They are camping in The High Forests (Widowmaker's Stands) in the TOMT. 
+The [[04-24-2025 Arc 1 End Crossroad]] marks the end of the players realizing what the hell is happening. They just rescued 60 miners from an ancient compound by completing [[First Compound, Battle]] and [[First Compound, Prison Break]]. They are camping in The High Forests (Widowmaker's Stands) in the TOMT. 
 
 ### Ending this Arc
 - We have done enough sea creatures for now

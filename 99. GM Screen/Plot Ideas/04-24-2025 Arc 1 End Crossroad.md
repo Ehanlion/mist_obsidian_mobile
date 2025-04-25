@@ -4,7 +4,7 @@ The [[04-24-2025 Arc 1 End Crossroad]] marks the end of the players realizing wh
 - We have done enough sea creatures for now
 - I want to start to drive the party east to cooler shit and bigger mystery
 - I want to wrap up this arc within 5-10 sessions tops
-- It should end at level 7 (get level 7 right before entering [[Sunken Caverns]])
+- It should end at level 7, get level 7 right before entering [[Sunken Caverns]]
 - The arc ends with the party in [[Gandoras City]] with an audience to see [[Seat of Stone]] and tell them of the plight of [[Whitecliff]]
 
 ### What they should know

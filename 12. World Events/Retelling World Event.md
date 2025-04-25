@@ -1,0 +1,1 @@
+[[Retelling World Event]] is needed to give a scale of grandeur to the campaign. When the party is in one location, they need to hear *information from other locations*. This gives a sense of "I am in this world" and not just "I am playing in this world."

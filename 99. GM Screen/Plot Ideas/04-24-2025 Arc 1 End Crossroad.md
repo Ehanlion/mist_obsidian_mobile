@@ -1,5 +1,4 @@
 The [[04-24-2025 Arc 1 End Crossroad]] marks the end of the players realizing what the hell is happening. They just rescued 60 miners from an ancient compound by completing [[First Compound, Battle]] and [[First Compound, Prison Break]]. They are camping in The High Forests (Widowmaker's Stands) in the TOMT. 
-
 ### Ending this Arc
 - We have done enough sea creatures for now
 - I want to start to drive the party east to cooler shit and bigger mystery
@@ -22,6 +21,11 @@ The [[04-24-2025 Arc 1 End Crossroad]] marks the end of the players realizing wh
 10. [[Vivian Lovejoy]] is alive for now
 11. The captured miners from [[First Compound, Prison Break]] were mining for a powerful artifact from and underwater ancient temple
 12. [[Karak-Ulgurath]] is NOT instrumental to success of the [[Aquan Nations]] BUT killing [[Karak-Ulgurath]] would demoralize and weaken the [[Aquan Nations]] long enough to mount a better war effort against them from [[Gandoria]]
+
+### What I need them to learn
+- A war is brewing and killing [[Karak-Ulgurath]] will buy enough time to raise the alarm in [[Gandoras City]] with [[Seat of Stone]]
+- [[Karak-Ulgurath]] is created, its power derived from a statue to The Stormlord
+- [[Karak-Ulgurath]] is not vastly large, that was a powerful illusion, it is collosal in size and slow
 
 ### Moving forward
 I only want to keep a list of "what they should know" and "what they should now be told" rather than write a plot arc for the next segment. I will wait until after S33, the session post-[[First Compound, Prison Break]], to choose what to create. Hearing the party decide will be key. 

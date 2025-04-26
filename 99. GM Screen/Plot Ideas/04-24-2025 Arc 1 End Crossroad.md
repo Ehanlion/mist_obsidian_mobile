@@ -22,7 +22,7 @@ The [[04-24-2025 Arc 1 End Crossroad]] marks the end of the players realizing wh
 11. The captured miners from [[First Compound, Prison Break]] were mining for a powerful artifact from and underwater ancient temple
 12. [[Karak-Ulgurath]] is NOT instrumental to success of the [[Aquan Nations]] BUT killing [[Karak-Ulgurath]] would demoralize and weaken the [[Aquan Nations]] long enough to mount a better war effort against them from [[Gandoria]]
 
-### What I need them to learn
+### ==What I need them to learn==
 - A war is brewing and killing [[Karak-Ulgurath]] will buy enough time to raise the alarm in [[Gandoras City]] with [[Seat of Stone]]
 - [[Karak-Ulgurath]] is created, its power derived from a statue to The Stormlord
 - [[Karak-Ulgurath]] is not vastly large, that was a powerful illusion, it is collosal in size and slow

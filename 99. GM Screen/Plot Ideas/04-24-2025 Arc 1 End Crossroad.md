@@ -26,7 +26,7 @@ The [[04-24-2025 Arc 1 End Crossroad]] marks the end of the players realizing wh
 - A war is brewing and killing [[Karak-Ulgurath]] will buy enough time to raise the alarm in [[Gandoras City]] with [[Seat of Stone]]
 - [[Karak-Ulgurath]] is created, its power derived from a statue to The Stormlord
 - [[Karak-Ulgurath]] is not vastly large, that was a powerful illusion, it is collosal in size and slow
-- In 2 weeks from S32, undercover of the raids on [[Whitecliff]], the librarians and miners are being moved east because the [[Aquan Nations]] have found a shard of [[Fedorov's Legion]]
+- In 2 weeks from S32, under the cover of the raids on [[Whitecliff]], the librarians and miners are being moved east because the [[Aquan Nations]] have found a shard of [[Fedorov's Legion]]
 
 ### Moving forward
 I only want to keep a list of "what they should know" and "what they should now be told" rather than write a plot arc for the next segment. I will wait until after S33, the session post-[[First Compound, Prison Break]], to choose what to create. Hearing the party decide will be key. 

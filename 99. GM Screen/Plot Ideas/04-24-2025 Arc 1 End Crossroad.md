@@ -6,7 +6,6 @@ The [[04-24-2025 Arc 1 End Crossroad]] marks the end of the players realizing wh
 - I want to wrap up this arc within 5-10 sessions tops
 - It should end at level 7, get level 7 right before entering [[Sunken Caverns]]
 - The arc ends with the party in [[Gandoras City]] with an audience to see [[Seat of Stone]] and tell them of the plight of [[Whitecliff]]
-
 ### What they should know
 1. [[Karak-Ulgurath]] is a giant magical crab with a big mind rock in its carapace
 2. The [[Aquan Nations]] are conspiring with:

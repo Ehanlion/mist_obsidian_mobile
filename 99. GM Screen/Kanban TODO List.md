@@ -6,8 +6,9 @@ kanban-plugin: board
 
 ## Lore Tracker
 
-- [ ] Ask players for 1 goal in next 10 sessions for characters
+- [x] Ask players for 1 goal in next 10 sessions for characters
 - [ ] Work on "next steps lore" after [[First Compound, Prison Break]] saga
+- [ ] Get 1 goal from players for their next 10 session
 
 
 ## Item Gifts

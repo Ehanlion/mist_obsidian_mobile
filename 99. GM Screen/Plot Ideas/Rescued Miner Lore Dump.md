@@ -8,4 +8,7 @@ The miners rescued from [[First Compound, Prison Break]] and The First Compound 
 - There are other miners in labor prisons in the other sea caves
 - The [[Sunken Caverns]] are deep and surrounded by legend, few travel down into them
 - [[Fedorov's Legion]] is soon set to depart [[Whitecliff]], it seems they have other plans to the East
-- 
+- [[Karak-Ulgurath]] is not instrumental to the victory of the [[Aquan Nations]]. But if left alive, it would be a powerful siege engine against [[Gandoras City]]
+- ==In 2 weeks from S32, under the cover of the raids on [[Whitecliff]], the librarians and miners are being moved east because the [[Aquan Nations]] have found a shard of [[Fedorov's Legion]]==
+- [[Karak-Ulgurath]] is NOT instrumental to success of the [[Aquan Nations]] BUT killing [[Karak-Ulgurath]] would demoralize and weaken the [[Aquan Nations]] long enough to mount a better war effort against them from [[Gandoria]]
+

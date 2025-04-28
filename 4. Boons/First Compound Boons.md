@@ -8,6 +8,4 @@
 **Boon of Poor Deception**: gain advantage on charisma checks when using a disguise to fool someone. 
 
 ### For Valyra
-**Boon of the Slippery**: you have advantage on escaping from a creature that is grappling you. 
-
-**Boon of Honed Chaos**: the threshold for you wild magic surges is always 15 or lower, regardless of location. While in combat and when rolling on the wild magic table, if an effect is purely cosmetic, reroll the d100. 
+**Boon of the Wild:** Your command over wild magic sharpens. The threshold for triggering a Wild Magic Surge is always 15 or lower, regardless of external influences or location. Additionally, when rolling on the Wild Magic Surge table during combat, if the result produces an effect that is purely cosmetic, you must reroll the d100 

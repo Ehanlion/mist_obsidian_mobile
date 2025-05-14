@@ -3,4 +3,3 @@ The [[Underground Well Sewer]] dungeon was inspired by a conversation with a wor
 ### Hooks
 - Chase could lead here, a criminal could knowingly jump down the well
 - Sickness in water, locals could be complaining about poinsoning in well (caused by leeching of sewers into well because a wall has been caved in my a monster)
-- 

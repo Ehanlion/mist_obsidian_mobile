@@ -1,4 +1,4 @@
-Located in the [[Frigid Crucible]], [[The Deep Labyrinth]] is the dungeon formed from the death of one of [[The Many]]. Who, I am not sure yet. The most important part is that, at its center, resides one of the Shards.
+  Located in the [[Frigid Crucible]], [[The Deep Labyrinth]] is the dungeon formed from the death of one of [[The Many]]. Who, I am not sure yet. The most important part is that, at its center, resides one of the Shards.
 
 The Labyrinth is designed to be ultra-confusing. Its passages change and alter with time. If the party manages to long rest, then their entire path will be corrupted. Navigating [[The Deep Labyrinth]] requires knowing a series of Left-Right-Straight codes that are hidden in the entrance room. At any point, if the group follows a correct combination they can end up somewhere important.
 

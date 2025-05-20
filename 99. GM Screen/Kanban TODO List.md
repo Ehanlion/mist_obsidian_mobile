@@ -25,10 +25,15 @@ kanban-plugin: board
 - [ ] Add dates to [[Item Tracker]]
 
 
+## Session Prep
+
+- [x] Light work on Trawlrock for S33
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true,"hide-card-count":false,"full-list-lane-width":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"hide-card-count":false,"full-list-lane-width":true}
 ```
 %%

@@ -1,0 +1,5 @@
+[[The Wand of Runeright]] Is a volatile and unpredictable magic wand. It allows the user to cast a spell that they know even when they lack the spell slot to cast it. However the wand exacts a brutal toll on those who are stricken by its power.
+
+Arcane Commandment: as many times as you choose, you may use arcane commandment. You attempt to cast a spell that you know and have prepared but lack a spell slot to cast. Make a saving throw equal to 12 + 2 times the spell's level with your spell casting ability. On a success, you cast the spell as normal, and the dc increases by 1 until you fail, at which point the dc resets. On a failure, you instantly die. If you are brought back to like, choose a spell slot. You lose that spell slot permanently. Only a wish spell can restore spell slots lost in this way. 
+
+Visions of arcane evisceration: onlooker watch as a wielded who fails their save for arcane commandment have their ties to the weave ripped from their body, torn into waving strands, and eviscerated. The body of the welder crumples to the floor. 

@@ -1,5 +1,0 @@
-[[Cdogspyro]] is one of my players for my original Mist Campaign. 
-# Player Analysis
-I think this player is best motivated by less combat more things to discover. One of the biggest complaints I've heard from them is that they are not a fan of Dungeons & Dragons fifth edition combat. I on the other hand as a GM really like the combat in dungeons and dragons. I think they will always be a little bit of a mismatch on our play style so the best that I can do is to try and add mystery, intrigue, and elements of the story that can be discovered without having combat as the core motivator for that.
-
-[[Cdogspyro]], you are my hardest puzzle piece to match. I feel like, since you are also a GM, some of the "magic" is lifted from D&D for you. I think you have the highest bar set for the campaign that I produce because you also create a campaign. I know you love mystery, roleplay, discovery, world building, and have a distaste for combat. For me, I find it so hard to hit all of these marks 100% of the time and my anxiety has always told me that you will never enjoy my games because you are such a skilled GM yourself. 

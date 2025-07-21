@@ -1,37 +1,33 @@
 ---
+
 kanban-plugin: list
+
 ---
 
-## Lore Tracker
-
-- [x] Ask players for 1 goal in next 10 sessions for characters
-- [ ] Work on "next steps lore" after [[First Compound, Prison Break]] saga
-- [ ] Get 1 goal from players for their next 10 session
+## Vault Updates
 
 
-## Item Gifts
 
-- [ ] Create wild magic item for [[Valyra Malzan]]
-- [x] Create a "magic stick" for [[Valyra Malzan]]
-- [ ] Give [[Kiro Rickshaha]] a new weapon to use, [[Tidecleaver Greatsword]]
-- [ ] Create item for [[Kiro Rickshaha]] that allows pact weapon to be multiple weapons at once
+## Session
 
-
-## Vault Repair
-
-- [x] Edit and update item list to most recent items
-- [ ] Add dates to [[Item Tracker]]
+- [ ] Prepare a S0 handout for Desert Campaign with Sean/Ashley/Max. Explain [[Scorchsand Wastes]], [[Fractured Coast]], [[Scorvorrian Peaks]], the Sultany of the coast, threats of the Deserts and a brief interlude about the greater Continent of [[Mist]]
+- [ ] Prepare hook for Desert Campaign and include with S0 Handout
 
 
-## Session Prep
+## World Building
 
-- [x] Light work on Trawlrock for S33
+- [ ] Update notes for [[Scorchsand Wastes]]
+- [ ] Update notes for [[Fractured Coast]]
+- [ ] Add Sultany to [[Fractured Coast]]
+- [ ] Add Military to [[Fractured Coast]]
+- [ ] Prepare Villain handouts for primary villains of [[Scorchsand Wastes]] for Desert Campaign
+- [ ] Finalize design and draw map for South Continent ([[Scorchsand Wastes]], [[Scorvorrian Peaks]], [[Fractured Coast]]). Make sure that [[Fractured Coast]] does NOT directly touch North Continent and requires passage through [[Scorchsand Wastes]].
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true,"hide-card-count":false,"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false],"show-checkboxes":true,"hide-card-count":false,"full-list-lane-width":true}
 ```
 %%

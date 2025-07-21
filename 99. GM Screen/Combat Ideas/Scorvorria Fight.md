@@ -1,4 +1,4 @@
-**Fight with:** [[Scorvorria the Ember Greatwyrm]] in [[Scorvorian Peaks]]
+**Fight with:** [[Scorvorria the Ember Greatwyrm]] in [[Scorvorrian Peaks]]
 
 **Ideas**:
 - *Glyphs* which are large constructs with magical enchantments empower [[Scorvorria the Ember Greatwyrm]] in her lair. They can each be damaged form only within 30 feet. They each empower an aspect of her:

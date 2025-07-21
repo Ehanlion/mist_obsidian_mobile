@@ -22,6 +22,7 @@ kanban-plugin: list
 - [ ] Add Military to [[Fractured Coast]]
 - [ ] Prepare Villain handouts for primary villains of [[Scorchsand Wastes]] for Desert Campaign
 - [ ] Finalize design and draw map for South Continent ([[Scorchsand Wastes]], [[Scorvorrian Peaks]], [[Fractured Coast]]). Make sure that [[Fractured Coast]] does NOT directly touch North Continent and requires passage through [[Scorchsand Wastes]].
+- [ ] Review video on Villains: [Villains, 3 Arcs Approach](https://www.youtube.com/watch?v=Mn7wsANPQ8o)
 
 
 

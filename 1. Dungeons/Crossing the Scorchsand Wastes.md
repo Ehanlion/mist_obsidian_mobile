@@ -16,4 +16,3 @@ The creatures that live in the [[Scorchsand Wastes]] evolved to detect magic. Du
 Creating water with magic should feel dangerous and like a gamble. It should not feel free and easy to do:
 - The primary threat of the [[Scorchsand Wastes]] is [[#Death by Lack of Water]] 
 - Basic spells are able to generate drinking water, which should not be allowed. I want this to feel hostile and scary
-- 

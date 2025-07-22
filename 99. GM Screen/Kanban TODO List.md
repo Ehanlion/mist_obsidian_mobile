@@ -17,6 +17,7 @@ kanban-plugin: list
 ## World Building
 
 - [ ] Update notes for [[Scorchsand Wastes]]
+- [ ] Add magic detection system to [[Scorchsand Wastes]], maybe call [[Scorchsand Wastes - Resonance]]
 - [ ] Update notes for [[Fractured Coast]]
 - [ ] Add Sultany to [[Fractured Coast]]
 - [ ] Add Military to [[Fractured Coast]]

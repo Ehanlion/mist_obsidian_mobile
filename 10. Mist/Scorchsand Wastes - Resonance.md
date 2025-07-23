@@ -1,3 +1,5 @@
+#regionaleffect #region
+
 The [[Scorchsand Wastes]] has a special, region-wide effect. The sands of the Desert amplify the castings of spells and the usage of enchanted, magical items. Not only that, but the creatures that inhabit the desert have evolved to smell and detect magic that is casted near them.
 ## The Resonance
 **Rumors:**

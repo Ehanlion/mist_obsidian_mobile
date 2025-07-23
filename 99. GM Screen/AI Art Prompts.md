@@ -1,3 +1,4 @@
+#ai #tool
 ## Style Lists
 1. Photorealisitc
 2. Dark Fantasy 

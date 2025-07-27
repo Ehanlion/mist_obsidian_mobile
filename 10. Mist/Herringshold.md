@@ -1,0 +1,1 @@
+[[Herringshold]] is a town along the [[Whitecliff Plateau]] and a part of [[Whitecliff]]. It is situated on the southern edge of the cliffs. It is well known for its fishing mages, who use powerful magic and spells to fish (as well as to levitate their vessels up/down the cliffs of [[Whitecliff]]). 

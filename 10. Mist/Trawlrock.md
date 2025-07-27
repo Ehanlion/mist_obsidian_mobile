@@ -23,6 +23,8 @@ The town has an elected mayor and a council of goveners. There is a strong influ
 - The Windcarve Market has shops for oddities
 - Here they sell any mundane traveller's resource
 - They sell few magic items, roll randomly from books, items are more expensive because trade has been halted due to raids
+## Morale in Trawlrock
+Morale in the town is low. Performing the side quests could raise the morale of the town and could get them closer to understanding more about the [[Sunken Caverns]] and what guards Vivian. 
 ## Town Random Name Table
 Arlen Shard, Brinna Saltreef, Calder Winchwell, Denya Moorcrest, Eamon Hookspool, Fira Chalkfen, Galen Ropewright, Hesta Tideglass, Ivor Gullstrand, Jessa Foamwake, Korrin Bleachbay, Lysa Cliffwarden, Merek Netlin, Talia Whitewind, Orin Crablock, Petra Siltbrook, Quillan Masthew, Rella Seavane, Torik Quarrylane, Veyra Gannetcall
 ## Drafted Plans for Side Quests

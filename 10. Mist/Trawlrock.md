@@ -25,7 +25,7 @@ The town has an elected mayor and a council of goveners. There is a strong influ
 - They sell few magic items, roll randomly from books, items are more expensive because trade has been halted due to raids
 ## Town Random Name Table
 Arlen Shard, Brinna Saltreef, Calder Winchwell, Denya Moorcrest, Eamon Hookspool, Fira Chalkfen, Galen Ropewright, Hesta Tideglass, Ivor Gullstrand, Jessa Foamwake, Korrin Bleachbay, Lysa Cliffwarden, Merek Netlin, Talia Whitewind, Orin Crablock, Petra Siltbrook, Quillan Masthew, Rella Seavane, Torik Quarrylane, Veyra Gannetcall
-## Things to do
+## Drafted Plans for Side Quests
 All tasks relate to the following: the [[Aquan Nations]] realize that Trawlrock is walled and hard to break into, so they have put forward groups hidden around time to give them advantage. If they do NOT help with these tasks, then Trawlrock might get blindsided by invading Aqaun folks inside the town. 
 1. Help the Saltstone brewery fix its brew system because ale is going bad
 	- The brewery connects to caves that go all the way down to sea level. They age and store product here. 
@@ -46,7 +46,7 @@ All tasks relate to the following: the [[Aquan Nations]] realize that Trawlrock 
 	- There are aquan priests here and brutes hidden underwater in the caves lurking
 ## Mini‑quest 1 – Saltstone Brewery sabotage
 
-**Hook & setup.** The Saltstone Brewery’s briny pale ales have turned sour and the brewers beg the PCs for help. The brewery is carved into the cliff and its fermentation caves descend to sea level[GitHub](https://github.com/Ehanlion/mist_obsidian_mobile/blob/daefa6e4462b04c83f5bfb00d800586ce1dca399/10.%20Mist/Trawlrock.md#L32-L35). This subterranean complex is where the party first encounters **giant crabs**—medium beasts that can breathe air and water and attack with claws that grapple their targets[roll20.net](https://roll20.net/compendium/dnd5e/Giant%20Crab#:~:text=Amphibious%3A%20The%20crab%20can%20breathe,air%20and%20water).
+**Hook & setup.** The Saltstone Brewery’s briny pale ales have turned sour and the brewers beg the PCs for help. The brewery is carved into the cliff and its fermentation caves descend to sea level. This subterranean complex is where the party first encounters **giant crabs**—medium beasts that can breathe air and water and attack with claws that grapple their targets.
 
 **Scenes & obstacles.**
 - **Investigation.** In the upper brewery, characters can question **Daelin Netscar** (head brewer) and examine vats. Perception or Investigation checks (DC 12–14) reveal fragments of shell, broken barnacles and briny footprints

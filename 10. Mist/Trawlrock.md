@@ -44,17 +44,17 @@ All tasks relate to the following: the [[Aquan Nations]] realize that Trawlrock 
 	- Sages rumored to have seen blue eyes and strange, unwordly magic, as well as a potent sign of magic from the sage's god, the Stormlord
 	- Group must investigate here and search for missing sages
 	- There are aquan priests here and brutes hidden underwater in the caves lurking
-## Mini‑quest 1 – Saltstone Brewery sabotage
+## Mini‑quest - Saltstone Brewery sabotage
 
 **Hook & setup.** The Saltstone Brewery’s briny pale ales have turned sour and the brewers beg the PCs for help. The brewery is carved into the cliff and its fermentation caves descend to sea level. This subterranean complex is where the party first encounters **giant crabs**—medium beasts that can breathe air and water and attack with claws that grapple their targets.
 
 **Scenes & obstacles.**
-- **Investigation.** In the upper brewery, characters can question **Daelin Netscar** (head brewer) and examine vats. Perception or Investigation checks (DC 12–14) reveal fragments of shell, broken barnacles and briny footprints
+- **Investigation.** In the upper brewery, characters can question **Daelin Netscar** (dwarf, head brewer) and examine vats. Perception or Investigation checks (DC 12–14) reveal fragments of shell, broken barnacles and briny footprints
 - **Cavern descent.** Narrow, slippery stairs lead down into storage tunnels; failed Dexterity checks could send PCs sliding into fermenting pools or drop them onto catwalks above the sea.
 - **Ambush.** Hidden in the vats are **giant crabs** placed there by Aquan agents. Many Sahuaguin lurk here waiting to ambush the town. 
 - **Clues & payoff.** Beyond the fermentation cave, a narrow sea tunnel hides crates of seaweed ropes and a hidden passage containing a small room with a rough description of [[Karak-Ulgurath]]'s lair area and the Prisoner areas here too. Returning the brewery to working order wins the party the town’s gratitude and hints at the Aquan plan to poison the town’s ale with jellyfish toxins discovered in the Aquan battalion dungeon.
 
-## Mini‑quest 2 – Lost pet in the Whispering Aqueduct
+## Mini‑quest - Lost pet in the Whispering Aqueduct
 
 **Hook & setup.** A distraught child or the mayor approaches the PCs: the town’s beloved Baby White Dragon “Salty” has gone missing in the Whispering Aqueduct. The aqueduct is an exposed channel spanning a deep crevasse outside the walls; locals whisper about strange footprints near the waterworks.
 
@@ -63,7 +63,7 @@ All tasks relate to the following: the [[Aquan Nations]] realize that Trawlrock 
 - **Encounter.** Near a broken sluice gate, the party hears distress squeaks. Some Sahuaguin Brutes are attempting to kill the pet. The creatures guard jars of **yellow jellyfish venom** that would have been poured into the water supply. PCs must rescue the pet, defeat or drive off the raiders and disarm the sabotage.
 - **Clues & payoff.** Searching the site uncovers a coded note mentioning a “three‑day moon” when a hidden force will strike from the Bay of Kelp. The recovered pet becomes a local hero, and the PCs earn the affection of **Mayor Mara Saltreef**; more importantly, they learn that the aqueduct was a target to weaken the town before the assault.
 
-## Mini‑quest 3 – The Tidesage Chapel haunting
+## Mini‑quest - The Tidesage Chapel haunting
 
 **Hook & setup.** The Tidesage Chapel is built into caverns beneath the cliff; sages descend steep cave walls to read omens in the surf. Recently, two sages went missing; another returned babbling about blue eyes and unworldly magic. The head priest begs the PCs to investigate.
 

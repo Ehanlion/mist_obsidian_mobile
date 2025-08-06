@@ -20,9 +20,9 @@ It is important to note that for this campaign, you should select "weaker" skill
 
 For this example I selected by background (doesn't matter for this example), then I chose a half-orc (STR +2, CON +1) for my race, where I did *not* respec the ability score improvements with Tasha's. 
 
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-| 12  | 10  | 11  | 8   | 8   | 10  |
+| STR | DEX | CON | WIS | CHA |
+| --- | --- | --- | --- | --- |
+| 12  | 10  | 11  | 8   | 10  |
 ### Hit Points
 How hit points work:
 - Everyone starts as a level 0 character

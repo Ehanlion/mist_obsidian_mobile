@@ -1,6 +1,7 @@
+#ruleset 
+
 **Preface**
 I had this campaign idea while I was out walking. I had this idea for a campaign that plays a lot more like a video game than dungeons and dragons. It extends the main D&D system but places classes, level-ups, ability scores, and items into a more *customizable* format. The main just is that players all start classless, itemless, and with the same ability scores (8s and10s). Then they explore a mega-dungeon world 
-
 ## Character Sheet
 
 ```md

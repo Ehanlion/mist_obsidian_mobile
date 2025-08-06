@@ -50,6 +50,12 @@ Next select a background. select a background. Choose any background from the 5.
 
 **Backstory**
 Your backstory can by anything you want. During session 0, your GM will give you suggestions on good character motivations. This campaign setting functions by giving characters **side quests** to complete from their backstory. Each character can select easy, medium, or hard objectives (with final say from GM) to choose for their character. Keep these secret or share them. You and the GM will agree upon a reasonable reward for completion such as a **feat, item, or class level-up.**
+### Selecting a Race
+**Rules:** Choose any race from the 5.5e ruleset. You are **not** allowed to use Tasha's Cauldron to respec ASI improvements from your race. You are not allowed to choose Custom Lineage. 
+
+When you choose a race you should consider the following:
+- Your race will grant you basic starting abilities to survive with
+- Your race determines your character's survival behavior and languages
 ### Hitpoints
 All characters begin at **level 0** with `1d10 (10) + CON` hitpoints. When you first gain a class, you level up to level 1. Then you roll the hit die for that class as normal and add that total to your overall hit points. 
 ### Selecting a Background
@@ -60,4 +66,3 @@ When you choose a background you should consider the following:
 - Your background motivates how your character is going to react
 - You background **does not** determine your class or build later on!
 - Pick a background and use it for **roleplay** and **backstory**
-### Selecting a Race

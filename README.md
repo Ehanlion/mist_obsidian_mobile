@@ -1,10 +1,10 @@
 # This Repository
 This is a repository I maintain for mobile work on the Mist campaign. It is a brainstorming collection of my thoughts that serves as an ancillary to the primary Mist repository. It is also a streamlined, reduced version of my primary **Mist** repository and serves as a compressed variant of only the most essential, currently-in-use files and concepts. That way, in my new ideas, I can reference the current campaign-relevant material. 
 
-**GIT plugin broke the vault:** 3 times. Broke after restarting to work on it again.
-**Last date for broken vault:** (3/28/25)
-**Resource Link for GIT:** [Obsidian-git](https://publish.obsidian.md/git-doc/Tips-and-Tricks#Gitignore)
-**Cool Fixes for Issues:** 
+**GIT plugin broke the vault:** 3 times. Broke after restarting to work on it again.\
+**Last date for broken vault:** (3/28/25)\
+**Resource Link for GIT:** [Obsidian-git](https://publish.obsidian.md/git-doc/Tips-and-Tricks#Gitignore)\
+**Cool Fixes for Issues:**\ 
 1. run command `git rm -r —cached .obsidian/`, clears the tracked obsidian status folder. 
 # Mist
 [[Mist]] is a world of magic, mystery, and danger. The world can best be divided into 4 main quadrants, split into natural regions. In the north-west lies [[Whitecliff Plateau]], a vaulted steppe of plains, adorned by the jewel of [[Gandoras City]] and [[Seat of Stone]]. In the north-east lies [[Greenheart Wilderness]], a chaotic and wild forest wraught with ancient magic, creatures of the moon, and strange abberations. To the east lies [[Chromatic Fangs]], the spine of [[Mist]]. These fearsome peaks naturally divide into the frosty, northern reaches of [[Frigid Crucible]] and the fiery, southern reaches of [[Scorvorrian Peaks]]. Beyond these lies the ruthless lands of [[Stormlocked Frontier]], with the great city of [[Hope Town]] standing stoic in the north here. Finally, to the south dwell the blazing deserts of the [[Scorchsand Wastes]], whose shifting sands conceal abominations that can smell magic from miles away. These sands isolate the rich lands of the [[Fractured Coast]] from the rest of [[Mist]]. Underlying the entire island is a mystery about the founders. Vast super structures, monuments, and creations riddle the island. Who created them? Why were they created? Why is there no access to other planes? Why are the gods not able to set foot on [[Mist]]? These questions remain unanswered, wrapped in mystery, waiting to be solved. Welcome to [[Mist]].

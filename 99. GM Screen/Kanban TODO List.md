@@ -6,6 +6,7 @@ kanban-plugin: list
 
 ## Vault Updates
 
+- [ ] Work on migrating generic information to a new vault in github
 
 
 ## Session

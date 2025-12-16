@@ -1,7 +1,7 @@
 # This Repository
 This is a repository I maintain for mobile work on the Mist campaign. It is a brainstorming collection of my thoughts that serves as an ancillary to the primary Mist repository. It is also a streamlined, reduced version of my primary **Mist** repository and serves as a compressed variant of only the most essential, currently-in-use files and concepts. That way, in my new ideas, I can reference the current campaign-relevant material. 
 
-**Resource Link for GIT:** [Obsidian-git](https://publish.obsidian.md/git-doc/Tips-and-Tricks#Gitignore)\
+**Resource Link for GIT:** [Obsidian-git](https://publish.obsidian.md/git-doc/Tips-and-Tricks#Gitignore)
 **Cool Fixes for Issues:**
 1. run command `git rm -r —cached .obsidian/`, clears the tracked obsidian status folder.
 2. Needed if the `gitignore` file is modified to ignore files that are being tracked by the repository. 
